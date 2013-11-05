@@ -14,6 +14,9 @@ import com.huaban.analysis.jieba.JiebaSegmenter.SegMode;
 
 /**
  * @author matrix
+ * 这个java文件缺少Junit包，从Github上clone的该项目文件缺少Junit包。
+ * junit.jar在eclipse目录下是有的。现在是把该项目外链到该jar包。
+ * 
  * 
  */
 public class JiebaSegmenterTest extends TestCase {
